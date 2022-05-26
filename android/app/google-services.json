@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "662267614123",
+    "project_id": "theolx-721ad",
+    "storage_bucket": "theolx-721ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662267614123:android:bf70340f65d6680f4538ee",
+        "android_client_info": {
+          "package_name": "com.example.the_olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662267614123-mnfvur0qkgh5e8k9qtchc1e83jec1m7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_olx",
+            "certificate_hash": "977b024e8125192e5fdce34aba83bf762fad439c"
+          }
+        },
+        {
+          "client_id": "662267614123-j7eahqokkqpgsn39fclp9b2kcgdddeo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcWQFCKKW7FBZUiXfXSMV9hzXnvtSFCcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662267614123-j7eahqokkqpgsn39fclp9b2kcgdddeo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
